@@ -1,5 +1,12 @@
-# Webpack configurado
+# Webpack Starter
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+### Notas:
+Para construir los módulos de node basta con agregar
+```
+npm install
+```
+Y para construir el build simplemente tipear
 
-Pero esto lo veremos en la siguiente sección
+```
+npm run build
+```
